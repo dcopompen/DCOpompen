@@ -63,6 +63,12 @@ button:hover {
   gap: 14px;
 }
 
+.logo {
+  max-height: 56px;
+  width: auto;
+  display: block;
+}
+
 .brand-mark {
   display: inline-flex;
   align-items: center;
